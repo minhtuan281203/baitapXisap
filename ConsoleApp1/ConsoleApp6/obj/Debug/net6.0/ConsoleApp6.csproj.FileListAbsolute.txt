@@ -1,0 +1,15 @@
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+E:\T2109A\C#\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll

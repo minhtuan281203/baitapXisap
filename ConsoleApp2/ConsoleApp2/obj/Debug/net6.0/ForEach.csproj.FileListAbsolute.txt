@@ -1,0 +1,15 @@
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ForEach.exe
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ForEach.deps.json
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ForEach.runtimeconfig.json
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ForEach.dll
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ForEach.pdb
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.dll
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ForEach.dll
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.pdb
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+E:\T2109A\C#\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ForEach.dll

@@ -1,0 +1,15 @@
+E:\T2109A\C#\ConsoleApp2\ArrayClass\bin\Debug\net6.0\ArrayClass.exe
+E:\T2109A\C#\ConsoleApp2\ArrayClass\bin\Debug\net6.0\ArrayClass.deps.json
+E:\T2109A\C#\ConsoleApp2\ArrayClass\bin\Debug\net6.0\ArrayClass.runtimeconfig.json
+E:\T2109A\C#\ConsoleApp2\ArrayClass\bin\Debug\net6.0\ArrayClass.dll
+E:\T2109A\C#\ConsoleApp2\ArrayClass\bin\Debug\net6.0\ArrayClass.pdb
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.csproj.AssemblyReference.cache
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfoInputs.cache
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfo.cs
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.dll
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\refint\ArrayClass.dll
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.pdb
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ArrayClass.genruntimeconfig.cache
+E:\T2109A\C#\ConsoleApp2\ArrayClass\obj\Debug\net6.0\ref\ArrayClass.dll

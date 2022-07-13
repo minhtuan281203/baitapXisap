@@ -1,0 +1,15 @@
+E:\T2109A\C#\ConsoleApp2\ObjectArray\bin\Debug\net6.0\ObjectArray.exe
+E:\T2109A\C#\ConsoleApp2\ObjectArray\bin\Debug\net6.0\ObjectArray.deps.json
+E:\T2109A\C#\ConsoleApp2\ObjectArray\bin\Debug\net6.0\ObjectArray.runtimeconfig.json
+E:\T2109A\C#\ConsoleApp2\ObjectArray\bin\Debug\net6.0\ObjectArray.dll
+E:\T2109A\C#\ConsoleApp2\ObjectArray\bin\Debug\net6.0\ObjectArray.pdb
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.AssemblyReference.cache
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfoInputs.cache
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfo.cs
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.dll
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\refint\ObjectArray.dll
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.pdb
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ObjectArray.genruntimeconfig.cache
+E:\T2109A\C#\ConsoleApp2\ObjectArray\obj\Debug\net6.0\ref\ObjectArray.dll
