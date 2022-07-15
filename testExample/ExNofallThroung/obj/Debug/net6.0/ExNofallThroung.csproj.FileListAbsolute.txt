@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\bin\Debug\net6.0\ExNofallThroung.exe
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\bin\Debug\net6.0\ExNofallThroung.deps.json
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\bin\Debug\net6.0\ExNofallThroung.runtimeconfig.json
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\bin\Debug\net6.0\ExNofallThroung.dll
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\bin\Debug\net6.0\ExNofallThroung.pdb
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.dll
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\refint\ExNofallThroung.dll
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.pdb
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ExNofallThroung.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\testExample\ExNofallThroung\obj\Debug\net6.0\ref\ExNofallThroung.dll

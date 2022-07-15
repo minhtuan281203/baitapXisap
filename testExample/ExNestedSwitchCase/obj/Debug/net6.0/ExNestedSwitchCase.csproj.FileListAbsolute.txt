@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\bin\Debug\net6.0\ExNestedSwitchCase.exe
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\bin\Debug\net6.0\ExNestedSwitchCase.deps.json
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\bin\Debug\net6.0\ExNestedSwitchCase.runtimeconfig.json
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\bin\Debug\net6.0\ExNestedSwitchCase.dll
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\bin\Debug\net6.0\ExNestedSwitchCase.pdb
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.dll
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\refint\ExNestedSwitchCase.dll
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.pdb
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ExNestedSwitchCase.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\testExample\ExNestedSwitchCase\obj\Debug\net6.0\ref\ExNestedSwitchCase.dll

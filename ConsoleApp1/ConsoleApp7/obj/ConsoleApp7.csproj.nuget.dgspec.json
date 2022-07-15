@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\T2109A\\C#\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj": {}
+    "E:\\T2109A\\C#\\Cthangw\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj": {}
   },
   "projects": {
-    "E:\\T2109A\\C#\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj": {
+    "E:\\T2109A\\C#\\Cthangw\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\T2109A\\C#\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj",
+        "projectUniqueName": "E:\\T2109A\\C#\\Cthangw\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj",
         "projectName": "ConsoleApp7",
-        "projectPath": "E:\\T2109A\\C#\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj",
+        "projectPath": "E:\\T2109A\\C#\\Cthangw\\ConsoleApp1\\ConsoleApp7\\ConsoleApp7.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "E:\\T2109A\\C#\\ConsoleApp1\\ConsoleApp7\\obj\\",
+        "outputPath": "E:\\T2109A\\C#\\Cthangw\\ConsoleApp1\\ConsoleApp7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

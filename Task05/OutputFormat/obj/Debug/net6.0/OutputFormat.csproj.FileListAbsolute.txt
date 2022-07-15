@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\bin\Debug\net6.0\OutputFormat.exe
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\bin\Debug\net6.0\OutputFormat.deps.json
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\bin\Debug\net6.0\OutputFormat.runtimeconfig.json
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\bin\Debug\net6.0\OutputFormat.dll
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\bin\Debug\net6.0\OutputFormat.pdb
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.dll
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\refint\OutputFormat.dll
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.pdb
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\OutputFormat.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\Task05\OutputFormat\obj\Debug\net6.0\ref\OutputFormat.dll

@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\testExample\testExample\bin\Debug\net6.0\testExample.exe
+E:\T2109A\C#\Cthangw\testExample\testExample\bin\Debug\net6.0\testExample.deps.json
+E:\T2109A\C#\Cthangw\testExample\testExample\bin\Debug\net6.0\testExample.runtimeconfig.json
+E:\T2109A\C#\Cthangw\testExample\testExample\bin\Debug\net6.0\testExample.dll
+E:\T2109A\C#\Cthangw\testExample\testExample\bin\Debug\net6.0\testExample.pdb
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.dll
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\refint\testExample.dll
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.pdb
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\testExample.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\testExample\testExample\obj\Debug\net6.0\ref\testExample.dll

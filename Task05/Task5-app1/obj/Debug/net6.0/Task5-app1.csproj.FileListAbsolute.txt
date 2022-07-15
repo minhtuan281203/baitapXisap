@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\bin\Debug\net6.0\Task5-app1.exe
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\bin\Debug\net6.0\Task5-app1.deps.json
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\bin\Debug\net6.0\Task5-app1.runtimeconfig.json
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\bin\Debug\net6.0\Task5-app1.dll
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\bin\Debug\net6.0\Task5-app1.pdb
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.dll
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\refint\Task5-app1.dll
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.pdb
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\Task5-app1.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\Task05\Task5-app1\obj\Debug\net6.0\ref\Task5-app1.dll

@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.exe
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.deps.json
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.runtimeconfig.json
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.dll
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\bin\Debug\net6.0\ExSwitchCase.pdb
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.dll
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\refint\ExSwitchCase.dll
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.pdb
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ExSwitchCase.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\testExample\ExSwitchCase\obj\Debug\net6.0\ref\ExSwitchCase.dll
