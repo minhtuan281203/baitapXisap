@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\bin\Debug\net6.0\Task6-app6.exe
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\bin\Debug\net6.0\Task6-app6.deps.json
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\bin\Debug\net6.0\Task6-app6.runtimeconfig.json
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\bin\Debug\net6.0\Task6-app6.dll
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\bin\Debug\net6.0\Task6-app6.pdb
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.dll
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\refint\Task6-app6.dll
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.pdb
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\Task6-app6.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\Luyentap7-12\Task6-app6\obj\Debug\net6.0\ref\Task6-app6.dll

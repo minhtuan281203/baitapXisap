@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6-app1", "Task6\Task6-app1.csproj", "{499557DE-4E07-42CE-8DDC-39455803311B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task6-app1", "Task6\Task6-app1.csproj", "{499557DE-4E07-42CE-8DDC-39455803311B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6-app2", "Task6-app2\Task6-app2.csproj", "{3F96B8A7-22A0-4CAD-A700-133F81F96DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task6-app2", "Task6-app2\Task6-app2.csproj", "{3F96B8A7-22A0-4CAD-A700-133F81F96DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6-app3", "Task6-app3\Task6-app3.csproj", "{3A7D50AF-DF21-45C2-A92D-263B271F5828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task6-app3", "Task6-app3\Task6-app3.csproj", "{3A7D50AF-DF21-45C2-A92D-263B271F5828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6-app4", "Task6-app4\Task6-app4.csproj", "{82C96C2D-60AD-4056-91A5-3C12F6B76CD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task6-app4", "Task6-app4\Task6-app4.csproj", "{82C96C2D-60AD-4056-91A5-3C12F6B76CD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6-app5", "Task6-app5\Task6-app5.csproj", "{1A23C1C8-3A8D-4862-910B-CA6F07AC04E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task6-app5", "Task6-app5\Task6-app5.csproj", "{1A23C1C8-3A8D-4862-910B-CA6F07AC04E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6-app6", "Task6-app6\Task6-app6.csproj", "{C40B1CAA-0BFD-45FA-AB89-CC39CBBF6DCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1A23C1C8-3A8D-4862-910B-CA6F07AC04E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A23C1C8-3A8D-4862-910B-CA6F07AC04E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A23C1C8-3A8D-4862-910B-CA6F07AC04E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40B1CAA-0BFD-45FA-AB89-CC39CBBF6DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40B1CAA-0BFD-45FA-AB89-CC39CBBF6DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40B1CAA-0BFD-45FA-AB89-CC39CBBF6DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40B1CAA-0BFD-45FA-AB89-CC39CBBF6DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
