@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\bin\Debug\net6.0\IndexersDemo.exe
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\bin\Debug\net6.0\IndexersDemo.deps.json
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\bin\Debug\net6.0\IndexersDemo.runtimeconfig.json
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\bin\Debug\net6.0\IndexersDemo.dll
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\bin\Debug\net6.0\IndexersDemo.pdb
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.dll
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\refint\IndexersDemo.dll
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.pdb
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\IndexersDemo.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\IndexersDemo\IndexersDemo\obj\Debug\net6.0\ref\IndexersDemo.dll
