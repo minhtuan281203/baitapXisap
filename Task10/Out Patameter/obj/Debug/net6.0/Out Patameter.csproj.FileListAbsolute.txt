@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\bin\Debug\net6.0\Out Patameter.exe
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\bin\Debug\net6.0\Out Patameter.deps.json
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\bin\Debug\net6.0\Out Patameter.runtimeconfig.json
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\bin\Debug\net6.0\Out Patameter.dll
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\bin\Debug\net6.0\Out Patameter.pdb
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.dll
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\refint\Out Patameter.dll
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.pdb
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\Out Patameter.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\Task10\Out Patameter\obj\Debug\net6.0\ref\Out Patameter.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\T2109A\\C#\\Cthangw\\IndexersDemo\\IndexersDemo\\IndexersDemo.csproj",
+      "projectUniqueName": "E:\\T2109A\\C#\\Cthangw\\Task9\\IndexersDemo\\IndexersDemo\\IndexersDemo.csproj",
       "projectName": "IndexersDemo",
-      "projectPath": "E:\\T2109A\\C#\\Cthangw\\IndexersDemo\\IndexersDemo\\IndexersDemo.csproj",
+      "projectPath": "E:\\T2109A\\C#\\Cthangw\\Task9\\IndexersDemo\\IndexersDemo\\IndexersDemo.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "E:\\T2109A\\C#\\Cthangw\\IndexersDemo\\IndexersDemo\\obj\\",
+      "outputPath": "E:\\T2109A\\C#\\Cthangw\\Task9\\IndexersDemo\\IndexersDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

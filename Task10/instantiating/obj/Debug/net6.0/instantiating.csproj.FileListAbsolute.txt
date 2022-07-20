@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\Task10\instantiating\bin\Debug\net6.0\instantiating.exe
+E:\T2109A\C#\Cthangw\Task10\instantiating\bin\Debug\net6.0\instantiating.deps.json
+E:\T2109A\C#\Cthangw\Task10\instantiating\bin\Debug\net6.0\instantiating.runtimeconfig.json
+E:\T2109A\C#\Cthangw\Task10\instantiating\bin\Debug\net6.0\instantiating.dll
+E:\T2109A\C#\Cthangw\Task10\instantiating\bin\Debug\net6.0\instantiating.pdb
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.dll
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\refint\instantiating.dll
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.pdb
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\instantiating.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\Task10\instantiating\obj\Debug\net6.0\ref\instantiating.dll

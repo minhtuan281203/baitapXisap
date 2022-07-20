@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\T2109A\\C#\\Cthangw\\GeometricObject\\GeometricObject\\GeometricObject.csproj",
+      "projectUniqueName": "E:\\T2109A\\C#\\Cthangw\\Task9\\GeometricObject\\GeometricObject\\GeometricObject.csproj",
       "projectName": "GeometricObject",
-      "projectPath": "E:\\T2109A\\C#\\Cthangw\\GeometricObject\\GeometricObject\\GeometricObject.csproj",
+      "projectPath": "E:\\T2109A\\C#\\Cthangw\\Task9\\GeometricObject\\GeometricObject\\GeometricObject.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "E:\\T2109A\\C#\\Cthangw\\GeometricObject\\GeometricObject\\obj\\",
+      "outputPath": "E:\\T2109A\\C#\\Cthangw\\Task9\\GeometricObject\\GeometricObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

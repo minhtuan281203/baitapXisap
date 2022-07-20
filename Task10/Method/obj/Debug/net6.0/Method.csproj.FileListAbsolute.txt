@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\Task10\Method\bin\Debug\net6.0\Method.exe
+E:\T2109A\C#\Cthangw\Task10\Method\bin\Debug\net6.0\Method.deps.json
+E:\T2109A\C#\Cthangw\Task10\Method\bin\Debug\net6.0\Method.runtimeconfig.json
+E:\T2109A\C#\Cthangw\Task10\Method\bin\Debug\net6.0\Method.dll
+E:\T2109A\C#\Cthangw\Task10\Method\bin\Debug\net6.0\Method.pdb
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.dll
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\refint\Method.dll
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.pdb
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\Method.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\Task10\Method\obj\Debug\net6.0\ref\Method.dll
