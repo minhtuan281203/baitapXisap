@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\bin\Debug\net6.0\bai1.exe
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\bin\Debug\net6.0\bai1.deps.json
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\bin\Debug\net6.0\bai1.runtimeconfig.json
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\bin\Debug\net6.0\bai1.dll
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\bin\Debug\net6.0\bai1.pdb
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.dll
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\refint\bai1.dll
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.pdb
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\bai1.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\BaiThucHanh\GeometryExample\bai1\obj\Debug\net6.0\ref\bai1.dll

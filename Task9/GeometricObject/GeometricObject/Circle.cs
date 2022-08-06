@@ -11,7 +11,7 @@ public class Circle : GeometricObject
     {
         this.radius = x;
     }
-    public Circle(double x, string c, double w) : base(c, w)
+    public Circle(double x, string c, double w) : base(w, c)
     {
         this.radius = x;
     }

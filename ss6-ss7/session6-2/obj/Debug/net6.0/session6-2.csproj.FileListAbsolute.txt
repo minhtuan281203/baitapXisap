@@ -1,0 +1,15 @@
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\bin\Debug\net6.0\session6-2.exe
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\bin\Debug\net6.0\session6-2.deps.json
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\bin\Debug\net6.0\session6-2.runtimeconfig.json
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\bin\Debug\net6.0\session6-2.dll
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\bin\Debug\net6.0\session6-2.pdb
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.csproj.AssemblyReference.cache
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.AssemblyInfoInputs.cache
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.AssemblyInfo.cs
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.csproj.CoreCompileInputs.cache
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.dll
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\refint\session6-2.dll
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.pdb
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\session6-2.genruntimeconfig.cache
+E:\T2109A\C#\Cthangw\ss6-ss7\session6-2\obj\Debug\net6.0\ref\session6-2.dll

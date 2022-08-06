@@ -14,6 +14,7 @@ public class Program
         c1.PColor = "red";
         c1.PWeight = 2.56;
         Console.WriteLine("Circle after change: " + c1.ToString());
+        Console.WriteLine("Area: " + c1.findArea());
         Console.ReadLine();
     }
 }
